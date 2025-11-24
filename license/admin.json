@@ -1,7 +1,14 @@
-[
-  {
-    "nama": "admin",
-    "pasword": "admin",
-    "permanen": true
-  }
-]
+{
+  "admins": [
+    {
+      "nama": "admin",
+      "pasword": "admin123",
+      "permanen": true
+    },
+    {
+      "nama": "coadmin",
+      "pasword": "coadmin123",
+      "permanen": true
+    }
+  ]
+}
